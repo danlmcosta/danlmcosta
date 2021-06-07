@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @danlmcosta
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... CS50x
-- 💞️ I’m looking to collaborate on ... I don't know
-- 📫 How to reach me ... Uh, maybe trying to contact to me
+- 👋 Hi, I’m @danlmcosta/Daniel
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning CS50x
 
 <!---
 danlmcosta/danlmcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
